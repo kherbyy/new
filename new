@@ -25,7 +25,7 @@ local arregloAtaques = {
 }
 local ataquesEnergy = {
 	{name = 'Soul Punisher',subName = 'Hak',fuerza = 40000000},
-	{name = 'Destruction',subName = 'Hak',fuerza = 40000000},
+	{name = 'Ultimate Spirit Bomb',subName = 'Hak',fuerza = 40000000},
 	{name = 'Energy Volley',subName = 'voleys',fuerza = 4000},
 }
 
